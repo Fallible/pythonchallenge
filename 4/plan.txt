@@ -1,1 +1,7 @@
 This time we seem to have the task of parsing out a number from the text of the page, then placing that text as a parameter value in the url.  I expect (from memory of having done this one a number of years previous) that there will be other complications, but this is a place to start.
+
+Next problem is that some of the pages are text, not numbers.  Because of how this is written, I don't feel like I am supposed to do this fully programatically, so I will just edit in the next step of the script manually.
+
+Looks like only that one oddity got in the way.  Divided by 2 and kept going.  Next time I had a blank line I entered that value in the browser and got the name of the next page.
+
+I could have done more programatically, but it would have been just showing off.  
