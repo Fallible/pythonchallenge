@@ -1,0 +1,1 @@
+This time we seem to have the task of parsing out a number from the text of the page, then placing that text as a parameter value in the url.  I expect (from memory of having done this one a number of years previous) that there will be other complications, but this is a place to start.
