@@ -1,1 +1,5 @@
 Time to learn about pickling.  
+
+I did a pile of reading before I realized that I didn't have a good basis to really start on ths puzzle.  I ended up leaning a lot from https://www.hackingnote.com/en/python-challenge-solutions/level-5.  I decided it best to learn what I could and move on instead of focus too hard on making sure I didn't appear to be ripping off someone else's work.
+
+The list comprehension example in the guide I followed was pretty neat actually.  It takes the two values from the deseralized data, multiplies them together, then adds them to the string... sorry, "joins" them to the string that is then printed.  The real kick there is that one part of those tuples from the unserialized data is a character intended to be printed and the other is how many times it should be printed.  So a str and an int.  Multiple a string with an int and you get int number of strings.  Honestly it bugs me that I didn't catch that on my own, but I guess that is part of what I am learning here.  Trying to think about this "pythonically". 
